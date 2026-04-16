@@ -1,0 +1,10 @@
+**/__pycache__/
+*.py[cod]
+checkpoints/
+test/
+*.pth
+train.sh
+test.sh
+*.out
+logs/
+tensorboard/
